@@ -1,0 +1,96 @@
+@media only screen and (min-width: 1200px){
+
+}
+
+@media only screen and (max-width: 1199px) and (min-width: 992px){
+
+}
+
+
+@media only screen and (max-width: 991px) and (min-width: 768px){
+
+}
+
+
+
+
+@media only screen and (max-width: 767px) and (min-width: 576px){
+	  nav ul li a{
+		        font-size: 14px;
+	}
+	 nav ul li {
+		        padding: 0 0 0 20px;
+	}
+
+	.news h2{
+	   margin-bottom: 30px;
+       font-size: 20px;
+
+}
+   .button-1 {
+       font-size: 20px;
+}
+  .button-2 {
+       width: 20%;
+       color: #bbbbbb;
+       padding: 0px 10px;
+}
+
+}
+
+
+
+
+
+@media only screen and (max-width: 575.98px){
+	header nav{
+		display: none;
+	}
+	header .button{
+		  width: 5%;
+	     float:right; 
+	}
+
+	 
+.gallery{
+    width: 45%;
+    margin-right: 20px;
+    padding: 30px 0;
+      
+}
+.gallery-box span{
+	color: gray;
+	font-size: 22px;
+
+}
+.gallery-box h2{
+	color: gray;
+	margin: 30px 0;
+	font-size: 34px;
+}
+.gallery-box p{
+	color: gray;
+	font-size: 15px;
+
+}
+
+
+.news h2{
+	   margin-bottom: 30px;
+       font-size: 10px;
+
+}
+
+.news input {
+    border: none;
+    background: transparent;
+    border-bottom: 1px solid black;
+    width: 40%;
+    padding: 15px;
+}
+
+@media only screen and (min-width: 576.98px){
+	
+	header .button{
+		display: none;
+	}
